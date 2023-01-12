@@ -1,4 +1,6 @@
 [![Balazs's GitHub Banner](./assets/GitHubHeader_minev2.png)](https://www.linkedin.com/in/nyirobalazs/)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
 Hey there 👋
