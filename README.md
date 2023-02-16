@@ -11,8 +11,8 @@ For more information about me and to get in touch:    [![LinkedIn Badge](https:/
 
 ## 📌 My latest projects
 
-<br>
-<a href="https://github.com/nyirobalazs/epilepsy-prediction-with-machine-learning"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/nyirobalazs/epilepsy-prediction-with-machine-learning">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=nyirobalazs&repo=epilepsy-prediction-with-machine-learning&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <a href="https://github.com/nyirobalazs/reinforcement-learning-of-blackjack">
